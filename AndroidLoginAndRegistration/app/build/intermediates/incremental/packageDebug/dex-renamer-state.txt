@@ -1,0 +1,7 @@
+#Tue Sep 05 17:09:45 KST 2017
+base.0=/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_627835e7876f11a6e388022ad11b56c6299e1a30
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_64463805b03cb9e604ad619401ac84c78f406d68/classes.dex
+base.1=/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_64463805b03cb9e604ad619401ac84c78f406d68
+file.0=/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_627835e7876f11a6e388022ad11b56c6299e1a30/classes.dex
