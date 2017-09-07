@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-port/values-port.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/res/values-port/values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 229,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 280
+                        "endOffset": 106
                     }
                 }
             }

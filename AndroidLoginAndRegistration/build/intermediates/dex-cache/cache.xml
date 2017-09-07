@@ -2,85 +2,2182 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a14cd053ea0f0074fb3b2b977b7fed3ae2cc5071/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.3"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23134fc2093127b736f6a2c1e4704915c20ee2cc/classes.dex" />
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_646b804cecb9714a89fe042719ecc3ea901cca84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/cfb12ebcdde4cde156e4da195840ae93e06ccaef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_017e6127ac319dced2fd033db425b6cd34df8380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7227f34e26dc165acc59ae1eb14f90bc241f8f97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_65eb3ff5870a93058bfa38118d40f42d8538290f.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Hyunho/.android/build-cache/c1c923c28ba89ec104a9c269d62de8049b3c304b/output/jars/classes.jar"
+        jar="/Users/Hyunho/.android/build-cache/940ca1cb280199f41ba1c96ad51577ae89518712/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d847bc029384e33e8e9a233710e4cf06d2935bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4c5be290b3a868ec65c24adf1c4432dbcf2e5763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_faad630a8c5e139716a0d4633be02b40b3d09e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/cfb12ebcdde4cde156e4da195840ae93e06ccaef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="25.0.3"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdd1ee4c0dee54aeae2aade0ed43bd87f775c711/classes.dex" />
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_017e6127ac319dced2fd033db425b6cd34df8380.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_969f429d55b00baceeca7fee79c21a0ece8f4405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ed25f430ae9812a3463cdca30403a5162ad36ab">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb7327d4700b4e2d3c5b746650cef2db71b108f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8314dcb19af203a1b944254bdf7b26b2bc1e316e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_dc350f93b63838228c12b125954840ffc1554466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b4619e9bb713c7f7ea64116b84d619815b9ba851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_23785454e33651ae9848782567cbfc3585e280c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/888b0115b798669b8929caef099624bd6f1bf2ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_a52824da2d623567a00398381c579443400f3d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74e3995cf26418d846bca8bf58835322e756d27b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_00be536c8e361f45764db9f8f19513fa25a20eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bf38e5f381d6fde1c1af5f35d2c99d734844011a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_555275b5ba92e5227fceacd8d868a25da8de7c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b85c9db36a2bdca2278711ffe215d5cad9a47288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b4619e9bb713c7f7ea64116b84d619815b9ba851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_23785454e33651ae9848782567cbfc3585e280c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/0411bce4526152a13032915996ac8d18dc40377e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_efa3758b5251b75c630f2de03ec443950d4a5388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a7d07bb7d70602b1019ee0a67d8d3909bd785968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9f9b77068c6e48af67f0e513ddbac9c100eb132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/85dbe1bca99198e312b2b885ce453524f2defbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_bc08247988216a9f85ed4c27f22071985c216fe0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/bd979e18ad6a30fd157e6b5416bee3d9be777efa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64c629168e4102251a7490fdfd77a0ea19b5b23c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8314dcb19af203a1b944254bdf7b26b2bc1e316e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_dc350f93b63838228c12b125954840ffc1554466.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e12951aaa231ccc74fc928c31206c6c3da9dcb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/99d32ba791ef3ed6cd5ab4188262a6c27d115d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3d70222da515436efe0d4e921c4ca0eb5a35fcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a8acefefe65ef5a5b4e8474491c61109f5dc0e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0b5ede511632096971c2682ddd3c96bf2ebccf90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74f24f02dc23c9d9038c98ada1f9fa0ab1d3182f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_054169aa9cb2e47f38628f2cebfd345de0c818de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a7d07bb7d70602b1019ee0a67d8d3909bd785968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9f9b77068c6e48af67f0e513ddbac9c100eb132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2647ab69b8a8613547441f16656c4c39108ed27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_fc6e692bc28220903d09a5a5584bf9052de1246b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/85dbe1bca99198e312b2b885ce453524f2defbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_bc08247988216a9f85ed4c27f22071985c216fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/21843b6249447e5a1cf8ef7a1b407db46aa77188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7d21195d4d797bb4e883c3ebc3dbaf5884ff1b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b58958e1c903a5fd3eb20b9822c01061d7aeb553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5afa1ee1a2fbfcd73d1d7cff4400eddb049d3e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74f24f02dc23c9d9038c98ada1f9fa0ab1d3182f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_054169aa9cb2e47f38628f2cebfd345de0c818de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6567187c0326de840a5e847baea12ac714ec65fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7e6cba7f42b401697ea16d62e15718fdbcfc3099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/14d7bf977e41dbeedc930b76cebf4bcb4d5286d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_856f2a5ef289d2fed0a19e082779f58fcf3901e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e81d59fdebdef14acc3be24344aff7e1a191ef21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3b7ee077c4a8a0108f9dd1d3632358f0d9b46a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74e3995cf26418d846bca8bf58835322e756d27b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_00be536c8e361f45764db9f8f19513fa25a20eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6567187c0326de840a5e847baea12ac714ec65fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7e6cba7f42b401697ea16d62e15718fdbcfc3099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/26dbc9a714046be36badca12158f9d723201f704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_34e8fe0c4178b13016c9bdb85592c39868f427ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_969f429d55b00baceeca7fee79c21a0ece8f4405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6567187c0326de840a5e847baea12ac714ec65fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7e6cba7f42b401697ea16d62e15718fdbcfc3099.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/3394082a672fa49da4d7f5b25643344b300a7f50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b6e8e3df33eb55148793e1ef4bf40716543a603/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e0a124138f1e295c3bce1c11660415c00f2a427e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0669ae8bc4d274c4e4b0b2721acbce57fab5b96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/86517ab0d46b362c552e47fc3b5d5ea511aa4db2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f77ac70eb99a735e1ffb418bc23a03ba2fff3af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/25c9a9ffd058a288194c179710c9fc1c5366ef43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0c6525ee872ddf5a3443ad0b386ea5eabb157791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/41ef097b5e3b34fb5a63e28f010b7afecaedd44d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_aa5b57dc71b532a0ec3b7f5afbf2575329177144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/0411bce4526152a13032915996ac8d18dc40377e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_efa3758b5251b75c630f2de03ec443950d4a5388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bd979e18ad6a30fd157e6b5416bee3d9be777efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_64c629168e4102251a7490fdfd77a0ea19b5b23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7ce6224d0e134c5a18c8c7eba918062cf38b3fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_df438ceadd5b0b44e0cc5a159f7126026832cfc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/c274fbda2485f3770c4d3d038f5cfe02d37652c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b5221867b98879cf3f83d8e7af90da65079f0f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a6430b7305af6fd20d29ca35abba69e71f811b59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d71728c81c4477508646780db0d75f7f67b4ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/5da61a97773ec77924e27fc470e6db588c71521b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_88b64e6597c7a556787c25c54031af19567d49c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74e3995cf26418d846bca8bf58835322e756d27b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_00be536c8e361f45764db9f8f19513fa25a20eec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d86333323d7de46223be2f4c8163598edbea655/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/15481296588310c7115b9867e60f6f7f47d571cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e62c6ecb6a06dadc40e7c06252d91ecbf807773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2ac40791ae307ee705bcac2c7cc7885559286e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f98c98ce043e7b5d37a7e342a638e09c5430db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/5b01ff2887c7fc52a33967d7ef4c2a479ddbec9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2ea09c68b5f8642d3199535013cd99ed6ba8d907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/85dbe1bca99198e312b2b885ce453524f2defbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_bc08247988216a9f85ed4c27f22071985c216fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a5824ce49fc5936102b94586de4e4db5d9761b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_76fcbdee1b4a952330e093c99cfa63ddc7bc8b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6360016cdad7b8f1ebe0d6510806b7b69ad7a150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_17df914e10c9d6ffdda70cd0244d239ed7fbb084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/0411bce4526152a13032915996ac8d18dc40377e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_efa3758b5251b75c630f2de03ec443950d4a5388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/25c9a9ffd058a288194c179710c9fc1c5366ef43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0c6525ee872ddf5a3443ad0b386ea5eabb157791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7ce6224d0e134c5a18c8c7eba918062cf38b3fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_df438ceadd5b0b44e0cc5a159f7126026832cfc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/03e382213db7a736e2f715fe592a662626bafd5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_20e0a2ebeeb2f46555f0b0d3673be33ebc1627df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/631a5216eaf7d8b6cf6b8b2d2c8572509b6f01fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5239baf5f27dbfa7fb6999563406600188493185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b7b8ceffbce93a27121bb6a3408d66dbd78e4d6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_54af404100641b62b20a49369756144a67e68407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bc35bdd09c77b88b256256877d477613da98bc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_965500f1b72814093ff2add72a2535ad0ec3ae0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a6430b7305af6fd20d29ca35abba69e71f811b59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d71728c81c4477508646780db0d75f7f67b4ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/21843b6249447e5a1cf8ef7a1b407db46aa77188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7d21195d4d797bb4e883c3ebc3dbaf5884ff1b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d8bb074d7cb989b583323b9c47e98be2c461e489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a5824ce49fc5936102b94586de4e4db5d9761b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_76fcbdee1b4a952330e093c99cfa63ddc7bc8b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d80e1b5b8a77ef984a96ba6002634aa4c6ef8ba7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0815f13e1bb2552c97b5335bcb7ef3cf28c8d3db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/e0a124138f1e295c3bce1c11660415c00f2a427e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0669ae8bc4d274c4e4b0b2721acbce57fab5b96a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d0beefdee4f4e893102d3693e552089bb5e7cbea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_063ac85764a9e470ae5cb26e908a5229bf9c0b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7ce6224d0e134c5a18c8c7eba918062cf38b3fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_df438ceadd5b0b44e0cc5a159f7126026832cfc0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/43d98dfd3b8b5c4e73514ab613301af392f872d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_875995cad89ba0b262fc24b75a9a76273ea8cbf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d8bb074d7cb989b583323b9c47e98be2c461e489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b7b8ceffbce93a27121bb6a3408d66dbd78e4d6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_54af404100641b62b20a49369756144a67e68407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/c274fbda2485f3770c4d3d038f5cfe02d37652c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b5221867b98879cf3f83d8e7af90da65079f0f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7227f34e26dc165acc59ae1eb14f90bc241f8f97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_65eb3ff5870a93058bfa38118d40f42d8538290f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/86517ab0d46b362c552e47fc3b5d5ea511aa4db2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f77ac70eb99a735e1ffb418bc23a03ba2fff3af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/087d05fc3e652d4fe8d2af668fd144a10b9afa58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4db67f178ece8c074c001e9e41c49ab9be98d483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/72fed626e960d7d82858c894d3f3ef67cf1f4fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e2f25dd541271fbcea83bf84872a0be3fc5997d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0d86333323d7de46223be2f4c8163598edbea655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e81d59fdebdef14acc3be24344aff7e1a191ef21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3b7ee077c4a8a0108f9dd1d3632358f0d9b46a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/15481296588310c7115b9867e60f6f7f47d571cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e62c6ecb6a06dadc40e7c06252d91ecbf807773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/75209b8c31036c8a4102864465e6499afc0210b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_35854ea79a417c9cc7bb5ea5422eda8d3ee34da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/ffefe7e1bb87d37cc6a6ebec9d00b28c1bbbb506/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9781faf9e58b064ad47e1bf5aa8dae2772948b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f418433ea1c44de23691329ff53e6ddb474bd10a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2344f2a9cd3d1f9608c0eb3279c97a36203be83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/86517ab0d46b362c552e47fc3b5d5ea511aa4db2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f77ac70eb99a735e1ffb418bc23a03ba2fff3af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8de94a15ded6cfc5f2ae99b924f89ac1db2d9c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e5b9ea9e7c3544e46ed0c354067081211010c846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f8f2f2ad810477abc7bd7ae74aece83fe1679e4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c217399a92b40903bed61a6e7b63992ca96bd165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a8acefefe65ef5a5b4e8474491c61109f5dc0e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0b5ede511632096971c2682ddd3c96bf2ebccf90.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/888b0115b798669b8929caef099624bd6f1bf2ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a52824da2d623567a00398381c579443400f3d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/087d05fc3e652d4fe8d2af668fd144a10b9afa58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4db67f178ece8c074c001e9e41c49ab9be98d483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74e3995cf26418d846bca8bf58835322e756d27b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_00be536c8e361f45764db9f8f19513fa25a20eec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/d80e1b5b8a77ef984a96ba6002634aa4c6ef8ba7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0815f13e1bb2552c97b5335bcb7ef3cf28c8d3db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/19ddd6f1abababf94d8f38202ce1b39b427ca418/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_885e07fe13a2569c190a8298858f7cfa1cacd225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f418433ea1c44de23691329ff53e6ddb474bd10a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2344f2a9cd3d1f9608c0eb3279c97a36203be83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/84caf1d84b8d50a961d9826a22706cc860dd8abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c6e963e04b39a7efdd9a7dbd18f4b2f57daf2218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/43d98dfd3b8b5c4e73514ab613301af392f872d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_875995cad89ba0b262fc24b75a9a76273ea8cbf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/14d7bf977e41dbeedc930b76cebf4bcb4d5286d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_856f2a5ef289d2fed0a19e082779f58fcf3901e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2ac40791ae307ee705bcac2c7cc7885559286e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f98c98ce043e7b5d37a7e342a638e09c5430db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/631a5216eaf7d8b6cf6b8b2d2c8572509b6f01fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5239baf5f27dbfa7fb6999563406600188493185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bc35bdd09c77b88b256256877d477613da98bc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_965500f1b72814093ff2add72a2535ad0ec3ae0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b58958e1c903a5fd3eb20b9822c01061d7aeb553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5afa1ee1a2fbfcd73d1d7cff4400eddb049d3e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/26dbc9a714046be36badca12158f9d723201f704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_34e8fe0c4178b13016c9bdb85592c39868f427ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f8f2f2ad810477abc7bd7ae74aece83fe1679e4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c217399a92b40903bed61a6e7b63992ca96bd165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4c5be290b3a868ec65c24adf1c4432dbcf2e5763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_faad630a8c5e139716a0d4633be02b40b3d09e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/5da61a97773ec77924e27fc470e6db588c71521b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_88b64e6597c7a556787c25c54031af19567d49c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/e9e73185ce62d88fab9aa2cc7c51051a125f9ce9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54b5d465624a9e98f49bc8adf3725b0c71ceca10/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a8acefefe65ef5a5b4e8474491c61109f5dc0e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0b5ede511632096971c2682ddd3c96bf2ebccf90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/99d32ba791ef3ed6cd5ab4188262a6c27d115d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3d70222da515436efe0d4e921c4ca0eb5a35fcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e72f87c1db110f39200cfccafbb8e89ca74e81a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5bf09b86ffb5a07c0ba29381f177f746b55feb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6360016cdad7b8f1ebe0d6510806b7b69ad7a150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_17df914e10c9d6ffdda70cd0244d239ed7fbb084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/c274fbda2485f3770c4d3d038f5cfe02d37652c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b5221867b98879cf3f83d8e7af90da65079f0f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bf38e5f381d6fde1c1af5f35d2c99d734844011a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_555275b5ba92e5227fceacd8d868a25da8de7c13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/6ef8ad88cb869d7e6f593aec0bf79c683d464b38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dc4b1668116eeca8e46989261c74274b1530c79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/15481296588310c7115b9867e60f6f7f47d571cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e62c6ecb6a06dadc40e7c06252d91ecbf807773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74f24f02dc23c9d9038c98ada1f9fa0ab1d3182f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_054169aa9cb2e47f38628f2cebfd345de0c818de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b4619e9bb713c7f7ea64116b84d619815b9ba851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_23785454e33651ae9848782567cbfc3585e280c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b58958e1c903a5fd3eb20b9822c01061d7aeb553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5afa1ee1a2fbfcd73d1d7cff4400eddb049d3e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/ffefe7e1bb87d37cc6a6ebec9d00b28c1bbbb506/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9781faf9e58b064ad47e1bf5aa8dae2772948b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/15481296588310c7115b9867e60f6f7f47d571cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e62c6ecb6a06dadc40e7c06252d91ecbf807773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bf38e5f381d6fde1c1af5f35d2c99d734844011a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_555275b5ba92e5227fceacd8d868a25da8de7c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e81d59fdebdef14acc3be24344aff7e1a191ef21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3b7ee077c4a8a0108f9dd1d3632358f0d9b46a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/41ef097b5e3b34fb5a63e28f010b7afecaedd44d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_aa5b57dc71b532a0ec3b7f5afbf2575329177144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/14d7bf977e41dbeedc930b76cebf4bcb4d5286d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_856f2a5ef289d2fed0a19e082779f58fcf3901e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/393b0ad3b62331daea23db606f133aa209382cf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_ad9296377803e6fcc94a2bf0c10ca5acadb7d247.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/284c85230611c902c7a6e847a62b258e27d8170a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84fa558ad43ee0d6e02b85e63a65d7e003b435ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a14cd053ea0f0074fb3b2b977b7fed3ae2cc5071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_646b804cecb9714a89fe042719ecc3ea901cca84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f8f2f2ad810477abc7bd7ae74aece83fe1679e4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c217399a92b40903bed61a6e7b63992ca96bd165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/26dbc9a714046be36badca12158f9d723201f704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_34e8fe0c4178b13016c9bdb85592c39868f427ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/c274fbda2485f3770c4d3d038f5cfe02d37652c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b5221867b98879cf3f83d8e7af90da65079f0f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/cfb12ebcdde4cde156e4da195840ae93e06ccaef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_017e6127ac319dced2fd033db425b6cd34df8380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8314dcb19af203a1b944254bdf7b26b2bc1e316e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_dc350f93b63838228c12b125954840ffc1554466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2647ab69b8a8613547441f16656c4c39108ed27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_fc6e692bc28220903d09a5a5584bf9052de1246b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2647ab69b8a8613547441f16656c4c39108ed27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_fc6e692bc28220903d09a5a5584bf9052de1246b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c8d0deec9a14ca68f098598d7ba0607ce62b1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_6383cd35696da1335b3bf735d71b2578101d70d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b85c9db36a2bdca2278711ffe215d5cad9a47288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4e2cfbabdc72a383dd6f025f6771bd452521a6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_477f15c0c9c381e9affab2eaff833f9848796500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d1b5458f49640827b5f28b69cd006afc4d76b94e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_8fdf98110e0195459e1ed32f066c19ac9b1653d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/d88ffbe8e3f47c64a7e9c8f042e6684d02881455/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb39bb068e74fb887049ca44b4dfd8c2d545b11d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a7d07bb7d70602b1019ee0a67d8d3909bd785968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9f9b77068c6e48af67f0e513ddbac9c100eb132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a8acefefe65ef5a5b4e8474491c61109f5dc0e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0b5ede511632096971c2682ddd3c96bf2ebccf90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b58958e1c903a5fd3eb20b9822c01061d7aeb553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5afa1ee1a2fbfcd73d1d7cff4400eddb049d3e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c5e3fa0f79bf02bad6de67977ad1f892cb66e6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4cbb0aad8fd3f83508d04722a43e71ee572b4e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/85dbe1bca99198e312b2b885ce453524f2defbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_bc08247988216a9f85ed4c27f22071985c216fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/19ddd6f1abababf94d8f38202ce1b39b427ca418/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_885e07fe13a2569c190a8298858f7cfa1cacd225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a14cd053ea0f0074fb3b2b977b7fed3ae2cc5071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_646b804cecb9714a89fe042719ecc3ea901cca84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b7b8ceffbce93a27121bb6a3408d66dbd78e4d6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_54af404100641b62b20a49369756144a67e68407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/284c85230611c902c7a6e847a62b258e27d8170a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_84fa558ad43ee0d6e02b85e63a65d7e003b435ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/393b0ad3b62331daea23db606f133aa209382cf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_ad9296377803e6fcc94a2bf0c10ca5acadb7d247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a6430b7305af6fd20d29ca35abba69e71f811b59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d71728c81c4477508646780db0d75f7f67b4ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b85c9db36a2bdca2278711ffe215d5cad9a47288.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/b765a8577d4310d32f4375632555171a9f7e0d98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_966001701c64ffa6b854dddaa64e077494d961c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/393b0ad3b62331daea23db606f133aa209382cf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_ad9296377803e6fcc94a2bf0c10ca5acadb7d247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c8d0deec9a14ca68f098598d7ba0607ce62b1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_6383cd35696da1335b3bf735d71b2578101d70d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/72fed626e960d7d82858c894d3f3ef67cf1f4fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e2f25dd541271fbcea83bf84872a0be3fc5997d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/3fd1a801bec7dda8fe610a9df3debe0564e70e7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deb97e2f4458f7af824fa180a67d5eb2e59c24f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a14cd053ea0f0074fb3b2b977b7fed3ae2cc5071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_646b804cecb9714a89fe042719ecc3ea901cca84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/ffefe7e1bb87d37cc6a6ebec9d00b28c1bbbb506/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9781faf9e58b064ad47e1bf5aa8dae2772948b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c8d0deec9a14ca68f098598d7ba0607ce62b1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_6383cd35696da1335b3bf735d71b2578101d70d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/84caf1d84b8d50a961d9826a22706cc860dd8abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c6e963e04b39a7efdd9a7dbd18f4b2f57daf2218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/ffefe7e1bb87d37cc6a6ebec9d00b28c1bbbb506/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9781faf9e58b064ad47e1bf5aa8dae2772948b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e72f87c1db110f39200cfccafbb8e89ca74e81a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5bf09b86ffb5a07c0ba29381f177f746b55feb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4e2cfbabdc72a383dd6f025f6771bd452521a6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_477f15c0c9c381e9affab2eaff833f9848796500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8de94a15ded6cfc5f2ae99b924f89ac1db2d9c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e5b9ea9e7c3544e46ed0c354067081211010c846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/03e382213db7a736e2f715fe592a662626bafd5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_20e0a2ebeeb2f46555f0b0d3673be33ebc1627df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/087d05fc3e652d4fe8d2af668fd144a10b9afa58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4db67f178ece8c074c001e9e41c49ab9be98d483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/75209b8c31036c8a4102864465e6499afc0210b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_35854ea79a417c9cc7bb5ea5422eda8d3ee34da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f418433ea1c44de23691329ff53e6ddb474bd10a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2344f2a9cd3d1f9608c0eb3279c97a36203be83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/99d32ba791ef3ed6cd5ab4188262a6c27d115d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3d70222da515436efe0d4e921c4ca0eb5a35fcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2647ab69b8a8613547441f16656c4c39108ed27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_fc6e692bc28220903d09a5a5584bf9052de1246b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d0beefdee4f4e893102d3693e552089bb5e7cbea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_063ac85764a9e470ae5cb26e908a5229bf9c0b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8de94a15ded6cfc5f2ae99b924f89ac1db2d9c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e5b9ea9e7c3544e46ed0c354067081211010c846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4e2cfbabdc72a383dd6f025f6771bd452521a6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_477f15c0c9c381e9affab2eaff833f9848796500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/03e382213db7a736e2f715fe592a662626bafd5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_20e0a2ebeeb2f46555f0b0d3673be33ebc1627df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/21843b6249447e5a1cf8ef7a1b407db46aa77188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7d21195d4d797bb4e883c3ebc3dbaf5884ff1b68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.android/build-cache/6c5e3fa0f79bf02bad6de67977ad1f892cb66e6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cbb0aad8fd3f83508d04722a43e71ee572b4e77/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d8bb074d7cb989b583323b9c47e98be2c461e489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b765a8577d4310d32f4375632555171a9f7e0d98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_966001701c64ffa6b854dddaa64e077494d961c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/25c9a9ffd058a288194c179710c9fc1c5366ef43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0c6525ee872ddf5a3443ad0b386ea5eabb157791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/19ddd6f1abababf94d8f38202ce1b39b427ca418/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_885e07fe13a2569c190a8298858f7cfa1cacd225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a5824ce49fc5936102b94586de4e4db5d9761b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_76fcbdee1b4a952330e093c99cfa63ddc7bc8b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bc35bdd09c77b88b256256877d477613da98bc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_965500f1b72814093ff2add72a2535ad0ec3ae0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e72f87c1db110f39200cfccafbb8e89ca74e81a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5bf09b86ffb5a07c0ba29381f177f746b55feb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8de94a15ded6cfc5f2ae99b924f89ac1db2d9c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e5b9ea9e7c3544e46ed0c354067081211010c846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d0beefdee4f4e893102d3693e552089bb5e7cbea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_063ac85764a9e470ae5cb26e908a5229bf9c0b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/631a5216eaf7d8b6cf6b8b2d2c8572509b6f01fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5239baf5f27dbfa7fb6999563406600188493185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a6430b7305af6fd20d29ca35abba69e71f811b59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d71728c81c4477508646780db0d75f7f67b4ee7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bc35bdd09c77b88b256256877d477613da98bc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_965500f1b72814093ff2add72a2535ad0ec3ae0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e81d59fdebdef14acc3be24344aff7e1a191ef21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3b7ee077c4a8a0108f9dd1d3632358f0d9b46a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/cfb12ebcdde4cde156e4da195840ae93e06ccaef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_017e6127ac319dced2fd033db425b6cd34df8380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b7b8ceffbce93a27121bb6a3408d66dbd78e4d6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_54af404100641b62b20a49369756144a67e68407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4858ade280049c2d69124f8b33ab5d4516cedda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/631a5216eaf7d8b6cf6b8b2d2c8572509b6f01fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5239baf5f27dbfa7fb6999563406600188493185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/bf38e5f381d6fde1c1af5f35d2c99d734844011a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_555275b5ba92e5227fceacd8d868a25da8de7c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/75209b8c31036c8a4102864465e6499afc0210b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_35854ea79a417c9cc7bb5ea5422eda8d3ee34da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/72fed626e960d7d82858c894d3f3ef67cf1f4fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e2f25dd541271fbcea83bf84872a0be3fc5997d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d0beefdee4f4e893102d3693e552089bb5e7cbea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_063ac85764a9e470ae5cb26e908a5229bf9c0b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2ac40791ae307ee705bcac2c7cc7885559286e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f98c98ce043e7b5d37a7e342a638e09c5430db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7227f34e26dc165acc59ae1eb14f90bc241f8f97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_65eb3ff5870a93058bfa38118d40f42d8538290f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7ce6224d0e134c5a18c8c7eba918062cf38b3fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_df438ceadd5b0b44e0cc5a159f7126026832cfc0.jar" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/Hyunho/.android/build-cache/5b01ff2887c7fc52a33967d7ef4c2a479ddbec9b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.3"
+        revision="26.0.1"
         sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ea09c68b5f8642d3199535013cd99ed6ba8d907/classes.dex" />
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ea09c68b5f8642d3199535013cd99ed6ba8d907/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/72fed626e960d7d82858c894d3f3ef67cf1f4fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_e2f25dd541271fbcea83bf84872a0be3fc5997d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/7227f34e26dc165acc59ae1eb14f90bc241f8f97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_65eb3ff5870a93058bfa38118d40f42d8538290f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/74f24f02dc23c9d9038c98ada1f9fa0ab1d3182f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_054169aa9cb2e47f38628f2cebfd345de0c818de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/393b0ad3b62331daea23db606f133aa209382cf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_ad9296377803e6fcc94a2bf0c10ca5acadb7d247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/8314dcb19af203a1b944254bdf7b26b2bc1e316e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_dc350f93b63838228c12b125954840ffc1554466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6360016cdad7b8f1ebe0d6510806b7b69ad7a150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_17df914e10c9d6ffdda70cd0244d239ed7fbb084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/0411bce4526152a13032915996ac8d18dc40377e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_efa3758b5251b75c630f2de03ec443950d4a5388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b4619e9bb713c7f7ea64116b84d619815b9ba851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_23785454e33651ae9848782567cbfc3585e280c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/75209b8c31036c8a4102864465e6499afc0210b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_35854ea79a417c9cc7bb5ea5422eda8d3ee34da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4c5be290b3a868ec65c24adf1c4432dbcf2e5763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_faad630a8c5e139716a0d4633be02b40b3d09e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/087d05fc3e652d4fe8d2af668fd144a10b9afa58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4db67f178ece8c074c001e9e41c49ab9be98d483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/b2ac40791ae307ee705bcac2c7cc7885559286e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f98c98ce043e7b5d37a7e342a638e09c5430db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a5824ce49fc5936102b94586de4e4db5d9761b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_76fcbdee1b4a952330e093c99cfa63ddc7bc8b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/84caf1d84b8d50a961d9826a22706cc860dd8abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c6e963e04b39a7efdd9a7dbd18f4b2f57daf2218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/19ddd6f1abababf94d8f38202ce1b39b427ca418/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_885e07fe13a2569c190a8298858f7cfa1cacd225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/940ca1cb280199f41ba1c96ad51577ae89518712/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d847bc029384e33e8e9a233710e4cf06d2935bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_b85c9db36a2bdca2278711ffe215d5cad9a47288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/d1b5458f49640827b5f28b69cd006afc4d76b94e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_8fdf98110e0195459e1ed32f066c19ac9b1653d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/14d7bf977e41dbeedc930b76cebf4bcb4d5286d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_856f2a5ef289d2fed0a19e082779f58fcf3901e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/5b01ff2887c7fc52a33967d7ef4c2a479ddbec9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2ea09c68b5f8642d3199535013cd99ed6ba8d907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/25c9a9ffd058a288194c179710c9fc1c5366ef43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0c6525ee872ddf5a3443ad0b386ea5eabb157791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f418433ea1c44de23691329ff53e6ddb474bd10a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2344f2a9cd3d1f9608c0eb3279c97a36203be83f.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.3"
-        sha1="98ecb4eb8dc4e3a888dc55fe93289b449b0b7eaa">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_627835e7876f11a6e388022ad11b56c6299e1a30/classes.dex" />
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4858ade280049c2d69124f8b33ab5d4516cedda2/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/.android/build-cache/0e4ed2171bf9d32a94cef27a6cc62302c69690b9/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/f8f2f2ad810477abc7bd7ae74aece83fe1679e4b/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_246545911043b0c840cea8c615ba8030f1b2098a/classes.dex" />
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c217399a92b40903bed61a6e7b63992ca96bd165.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/.android/build-cache/c1c923c28ba89ec104a9c269d62de8049b3c304b/output/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.3"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_ad8b5f1540e00ec0f5ba182768e4310ccb1dc56d/classes.dex" />
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_d8bb074d7cb989b583323b9c47e98be2c461e489.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/99d32ba791ef3ed6cd5ab4188262a6c27d115d3c/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_64463805b03cb9e604ad619401ac84c78f406d68/classes.dex" />
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_3d70222da515436efe0d4e921c4ca0eb5a35fcca.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4c5be290b3a868ec65c24adf1c4432dbcf2e5763/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.3"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_410a347e3d8d6d1e09769a4665db92a292f73d8c/classes.dex" />
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_faad630a8c5e139716a0d4633be02b40b3d09e7a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Hyunho/.android/build-cache/41c43e0aa558b172463e395ced9e742fe494304c/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/21843b6249447e5a1cf8ef7a1b407db46aa77188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7d21195d4d797bb4e883c3ebc3dbaf5884ff1b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/86517ab0d46b362c552e47fc3b5d5ea511aa4db2/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cee7271da6b2c6e8f223fd4a448ff8dc43ddc2/classes.dex" />
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f77ac70eb99a735e1ffb418bc23a03ba2fff3af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6c8d0deec9a14ca68f098598d7ba0607ce62b1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_6383cd35696da1335b3bf735d71b2578101d70d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/03e382213db7a736e2f715fe592a662626bafd5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_20e0a2ebeeb2f46555f0b0d3673be33ebc1627df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/e72f87c1db110f39200cfccafbb8e89ca74e81a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_5bf09b86ffb5a07c0ba29381f177f746b55feb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/5b01ff2887c7fc52a33967d7ef4c2a479ddbec9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_2ea09c68b5f8642d3199535013cd99ed6ba8d907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6360016cdad7b8f1ebe0d6510806b7b69ad7a150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_17df914e10c9d6ffdda70cd0244d239ed7fbb084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/4e2cfbabdc72a383dd6f025f6771bd452521a6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_477f15c0c9c381e9affab2eaff833f9848796500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/a7d07bb7d70602b1019ee0a67d8d3909bd785968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_9f9b77068c6e48af67f0e513ddbac9c100eb132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/26dbc9a714046be36badca12158f9d723201f704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_34e8fe0c4178b13016c9bdb85592c39868f427ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/84caf1d84b8d50a961d9826a22706cc860dd8abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_c6e963e04b39a7efdd9a7dbd18f4b2f57daf2218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6567187c0326de840a5e847baea12ac714ec65fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_7e6cba7f42b401697ea16d62e15718fdbcfc3099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hyunho/.android/build-cache/6ef8ad88cb869d7e6f593aec0bf79c683d464b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_4dc4b1668116eeca8e46989261c74274b1530c79.jar" />
     </item>
 
 </items>

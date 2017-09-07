@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 240,
+                        "startOffset": 55,
                         "endColumn": 112,
-                        "endOffset": 348
+                        "endOffset": 163
                     }
                 }
             }

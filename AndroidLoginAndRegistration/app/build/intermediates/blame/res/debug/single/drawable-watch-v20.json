@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/Hyunho/.android/build-cache/6c81c34c7c9e09d5c3450d23d2ea5d992470abec/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

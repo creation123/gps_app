@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/Hyunho/.android/build-cache/2d23a52f25943f9b585b36682dace233a5f48f25/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml",
+        "outputFile": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 113,
-                    "endOffset": 164
+                    "endColumn": 105,
+                    "endOffset": 156
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
-                        "endColumn": 113,
-                        "endOffset": 342
+                        "startOffset": 55,
+                        "endColumn": 105,
+                        "endOffset": 156
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 169,
-                    "endColumn": 107,
-                    "endOffset": 272
+                    "startOffset": 161,
+                    "endColumn": 113,
+                    "endOffset": 270
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 347,
-                        "endColumn": 107,
-                        "endOffset": 450
+                        "startOffset": 161,
+                        "endColumn": 113,
+                        "endOffset": 270
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 277,
-                    "endColumn": 122,
-                    "endOffset": 395
+                    "startOffset": 275,
+                    "endColumn": 114,
+                    "endOffset": 385
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 455,
-                        "endColumn": 122,
-                        "endOffset": 573
+                        "startOffset": 275,
+                        "endColumn": 114,
+                        "endOffset": 385
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 400,
-                    "endColumn": 108,
-                    "endOffset": 504
+                    "startOffset": 390,
+                    "endColumn": 120,
+                    "endOffset": 506
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 578,
-                        "endColumn": 108,
-                        "endOffset": 682
+                        "startOffset": 390,
+                        "endColumn": 120,
+                        "endOffset": 506
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 509,
-                    "endColumn": 110,
-                    "endOffset": 615
+                    "startOffset": 511,
+                    "endColumn": 100,
+                    "endOffset": 607
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 687,
-                        "endColumn": 110,
-                        "endOffset": 793
+                        "startOffset": 511,
+                        "endColumn": 100,
+                        "endOffset": 607
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 620,
-                    "endColumn": 89,
-                    "endOffset": 705
+                    "startOffset": 612,
+                    "endColumn": 95,
+                    "endOffset": 703
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 798,
-                        "endColumn": 89,
-                        "endOffset": 883
+                        "startOffset": 612,
+                        "endColumn": 95,
+                        "endOffset": 703
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 710,
-                    "endColumn": 104,
-                    "endOffset": 810
+                    "startOffset": 708,
+                    "endColumn": 94,
+                    "endOffset": 798
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 888,
-                        "endColumn": 104,
-                        "endOffset": 988
+                        "startOffset": 708,
+                        "endColumn": 94,
+                        "endOffset": 798
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 815,
-                    "endColumn": 124,
-                    "endOffset": 935
+                    "startOffset": 803,
+                    "endColumn": 116,
+                    "endOffset": 915
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 993,
-                        "endColumn": 124,
-                        "endOffset": 1113
+                        "startOffset": 803,
+                        "endColumn": 116,
+                        "endOffset": 915
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 940,
-                    "endColumn": 81,
-                    "endOffset": 1017
+                    "startOffset": 920,
+                    "endColumn": 103,
+                    "endOffset": 1019
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1118,
-                        "endColumn": 81,
-                        "endOffset": 1195
+                        "startOffset": 920,
+                        "endColumn": 103,
+                        "endOffset": 1019
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1022,
-                    "endColumn": 81,
-                    "endOffset": 1099
+                    "startOffset": 1024,
+                    "endColumn": 98,
+                    "endOffset": 1118
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1200,
-                        "endColumn": 81,
-                        "endOffset": 1277
+                        "startOffset": 1024,
+                        "endColumn": 98,
+                        "endOffset": 1118
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1104,
-                    "endColumn": 84,
-                    "endOffset": 1184
+                    "startOffset": 1123,
+                    "endColumn": 100,
+                    "endOffset": 1219
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1282,
-                        "endColumn": 84,
-                        "endOffset": 1362
+                        "startOffset": 1123,
+                        "endColumn": 100,
+                        "endOffset": 1219
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1189,
-                    "endColumn": 112,
-                    "endOffset": 1297
+                    "startOffset": 1224,
+                    "endColumn": 103,
+                    "endOffset": 1323
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1367,
-                        "endColumn": 112,
-                        "endOffset": 1475
+                        "startOffset": 1224,
+                        "endColumn": 103,
+                        "endOffset": 1323
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1302,
-                    "endColumn": 107,
-                    "endOffset": 1405
+                    "startOffset": 1328,
+                    "endColumn": 113,
+                    "endOffset": 1437
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1480,
-                        "endColumn": 107,
-                        "endOffset": 1583
+                        "startOffset": 1328,
+                        "endColumn": 113,
+                        "endOffset": 1437
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1410,
-                    "endColumn": 99,
-                    "endOffset": 1505
+                    "startOffset": 1442,
+                    "endColumn": 113,
+                    "endOffset": 1551
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1588,
-                        "endColumn": 99,
-                        "endOffset": 1683
+                        "startOffset": 1442,
+                        "endColumn": 113,
+                        "endOffset": 1551
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1510,
-                    "endColumn": 110,
-                    "endOffset": 1616
+                    "startOffset": 1556,
+                    "endColumn": 92,
+                    "endOffset": 1644
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1688,
-                        "endColumn": 110,
-                        "endOffset": 1794
+                        "startOffset": 1556,
+                        "endColumn": 92,
+                        "endOffset": 1644
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1621,
-                    "endColumn": 101,
-                    "endOffset": 1718
+                    "startOffset": 1649,
+                    "endColumn": 90,
+                    "endOffset": 1735
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1799,
-                        "endColumn": 101,
-                        "endOffset": 1896
+                        "startOffset": 1649,
+                        "endColumn": 90,
+                        "endOffset": 1735
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1723,
-                    "endColumn": 116,
-                    "endOffset": 1835
+                    "startOffset": 1740,
+                    "endColumn": 96,
+                    "endOffset": 1832
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1901,
-                        "endColumn": 116,
-                        "endOffset": 2013
+                        "startOffset": 1740,
+                        "endColumn": 96,
+                        "endOffset": 1832
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1840,
-                    "endColumn": 126,
-                    "endOffset": 1962
+                    "startOffset": 1837,
+                    "endColumn": 103,
+                    "endOffset": 1936
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2018,
-                        "endColumn": 126,
-                        "endOffset": 2140
+                        "startOffset": 1837,
+                        "endColumn": 103,
+                        "endOffset": 1936
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1967,
-                    "endColumn": 100,
-                    "endOffset": 2063
+                    "startOffset": 1941,
+                    "endColumn": 86,
+                    "endOffset": 2023
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2145,
-                        "endColumn": 100,
-                        "endOffset": 2241
+                        "startOffset": 1941,
+                        "endColumn": 86,
+                        "endOffset": 2023
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2068,
-                    "endColumn": 100,
-                    "endOffset": 2164
+                    "startOffset": 2028,
+                    "endColumn": 94,
+                    "endOffset": 2118
                 },
                 "from": {
-                    "file": "/Users/Hyunho/.android/build-cache/e025b06e6044ce51313965283acff65051bfd048/output/res/values-te-rIN/values-te-rIN.xml",
+                    "file": "/Users/Hyunho/.android/build-cache/be1e2a8f46f7101b0c0ef60e27c60e57fea59867/output/res/values-te-rIN/values-te-rIN.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2246,
-                        "endColumn": 100,
-                        "endOffset": 2342
+                        "startOffset": 2028,
+                        "endColumn": 94,
+                        "endOffset": 2118
                     }
                 }
             }

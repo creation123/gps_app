@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:15
+-keep class info.androidhive.loginandregistration.app.AppController { <init>(...); }
+
