@@ -65,7 +65,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	/**
 	 * Storing user details in database
 	 * */
-	public void addUser(String name, String email, String uid, String created_at) {
+	public void addUser(String name, String email, String uid, String created_at,String user_id) {
 		SQLiteDatabase db = this.getWritableDatabase();
 
 		ContentValues values = new ContentValues();
@@ -73,6 +73,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		values.put(KEY_EMAIL, email); // Email
 		values.put(KEY_UID, uid); // Email
 		values.put(KEY_CREATED_AT, created_at); // Created At
+		values.put(KEY_ID,user_id); // User_id
 
 		// Inserting Row
 		long id = db.insert(TABLE_USER, null, values);
@@ -96,7 +97,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		long id = db.insert(TABLE_USER, null, values);
 		db.close(); // Closing database connection
 
-		Log.d(TAG, "New user inserted into sqlite: " + id);
+		Log.d(TAG, "New user inserted into sqlite_attendance: " + id);
 	}
 
 
@@ -113,11 +114,11 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		// Move to first row
 		cursor.moveToFirst();
 		if (cursor.getCount() > 0) {
-			user.put("id",cursor.getString(0));
 			user.put("name", cursor.getString(1));
 			user.put("email", cursor.getString(2));
 			user.put("uid", cursor.getString(3));
 			user.put("created_at", cursor.getString(4));
+			user.put("user_id",cursor.getString(0));
 		}
 		cursor.close();
 		db.close();

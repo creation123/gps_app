@@ -2,63 +2,30 @@
 <instant-run
     abi="x86"
     api-level="24"
-    build-mode="FULL"
+    build-mode="HOT_WARM"
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505196888830"
+    timestamp="1505199990624"
     token="-1591144508806776126"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="254" />
+        duration="245" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="650" />
     <task
         name="instant-run-transform"
-        duration="277" />
+        duration="10" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
@@ -100,6 +67,38 @@
         <artifact
             location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1505199463284"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1505199708656"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1505199812698"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/builds/debug/1505199812698/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1505199990624"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

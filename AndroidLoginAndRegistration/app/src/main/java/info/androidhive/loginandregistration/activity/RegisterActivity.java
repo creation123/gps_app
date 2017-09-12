@@ -130,7 +130,7 @@ public class RegisterActivity extends Activity {
                         // User successfully stored in MySQL
                         // Now store the user in sqlite
                         String uid = jObj.getString("uid");
-
+                        String user_id = jObj.getString("id");
                         JSONObject user = jObj.getJSONObject("user");
                         String name = user.getString("name");
                         String email = user.getString("email");
@@ -141,7 +141,7 @@ public class RegisterActivity extends Activity {
                         // Inserting row in users table
 
                         Log.e(TAG,"Checkpoint1");
-                        db.addUser(name, email, uid, created_at);
+                        db.addUser(name, email, uid, created_at,user_id);
                         Log.e(TAG,"checkpoint2");
 
                         Toast.makeText(getApplicationContext(), "User successfully registered. Try login now!", Toast.LENGTH_LONG).show();

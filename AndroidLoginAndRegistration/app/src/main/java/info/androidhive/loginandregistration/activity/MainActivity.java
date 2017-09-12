@@ -72,12 +72,13 @@ public class MainActivity extends AppCompatActivity {
 	 */
 	private FusedLocationProviderClient mFusedLocationClient;
 
+	//JOU address
+	//private Double target_lat = 37.771471;
+	//private Double target_long = 128.87028;
 
-	private Double target_lat = 37.771471;
-	private Double target_long = 128.87028;
-
-	//private Double target_lat = 37.4220;
-	//private Double target_long = -122.0840;
+	//Googleplex
+	private Double target_lat = 37.4220;
+	private Double target_long = -122.0840;
 	//private String[] test1 = {"37.4220","-122.0840"};
 
 	private Double delta = 0.0008;
@@ -141,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
 
 		String name = user.get("name");
 		String email = user.get("email");
-		String id = user.get("id");
+		String id = user.get("user_id");
 
 		// Displaying the user details on the screen
 		txtName.setText(name);
