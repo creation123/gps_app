@@ -1,4 +1,4 @@
-#Wed Sep 06 15:43:22 KST 2017
+#Tue Sep 12 15:15:02 KST 2017
 base.0=/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb7327d4700b4e2d3c5b746650cef2db71b108f8
 renamed.1=classes.dex
 renamed.0=classes2.dex

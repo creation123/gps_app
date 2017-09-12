@@ -57,21 +57,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Hyunho/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
-        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_969f429d55b00baceeca7fee79c21a0ece8f4405/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="8ed25f430ae9812a3463cdca30403a5162ad36ab">
         <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb7327d4700b4e2d3c5b746650cef2db71b108f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hyunho/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_969f429d55b00baceeca7fee79c21a0ece8f4405/classes.dex" />
     </item>
     <item
         is-multidex="false"

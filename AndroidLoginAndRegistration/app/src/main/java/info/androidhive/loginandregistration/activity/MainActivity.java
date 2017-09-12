@@ -1,5 +1,6 @@
 package info.androidhive.loginandregistration.activity;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,12 +12,11 @@ import android.widget.TextView;
 
 import java.util.HashMap;
 
-
 import info.androidhive.loginandregistration.BuildConfig;
 import info.androidhive.loginandregistration.R;
+import info.androidhive.loginandregistration.app.AppController;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
 import info.androidhive.loginandregistration.helper.SessionManager;
-
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -33,7 +33,19 @@ import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 
-import java.util.Locale;
+import java.util.Map;
+
+import com.android.volley.Request.Method;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+
+import info.androidhive.loginandregistration.app.AppConfig;
+import org.json.JSONObject;
+import org.json.JSONException;
+
+
+
 
 
 public class MainActivity extends AppCompatActivity {
@@ -49,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
 	private SQLiteHandler db;
 	private SessionManager session;
 
+	private TextView txtId;
 
 	private static final String TAG = MainActivity.class.getSimpleName();
 
@@ -60,9 +73,41 @@ public class MainActivity extends AppCompatActivity {
 	private FusedLocationProviderClient mFusedLocationClient;
 
 
+	private Double target_lat = 37.771471;
+	private Double target_long = 128.87028;
+
+	//private Double target_lat = 37.4220;
+	//private Double target_long = -122.0840;
+	//private String[] test1 = {"37.4220","-122.0840"};
+
+	private Double delta = 0.0008;
+
+	private String lat_save = "0";
+	private String long_save = "0";
+
+	private String[] location_current;
+
+	public boolean check_attendance(String[] input_location){
+
+		Double current_lat = Double.parseDouble(input_location[0]);
+		Double current_long = Double.parseDouble(input_location[1]);
+		Log.i(TAG,current_lat.toString());
+		Log.i(TAG,current_long.toString());
+
+		if(Math.abs(target_lat-current_lat)<=delta & Math.abs(target_long-current_long)<=delta){
+			Log.e(TAG,"attended");
+			return true;
+		}
+		return false;
+	}
+
+
+	//private Attendance attendance = new Attendance();
+
 	String latitude="null";
 	String longitude = "null";
 
+	private ProgressDialog pDialog;
 	//맨처음에 로딩할때 딱 한번 보여주기만 하면됨
 
 	@Override
@@ -77,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
 		txtEmail = (TextView) findViewById(R.id.email);
 		txtLatitude = (TextView) findViewById(R.id.latitude_location);
 		txtLongitude = (TextView) findViewById(R.id.longitude_location);
-
+		txtId = (TextView) findViewById(R.id.user_id);
 
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 
@@ -96,11 +141,12 @@ public class MainActivity extends AppCompatActivity {
 
 		String name = user.get("name");
 		String email = user.get("email");
+		String id = user.get("id");
 
 		// Displaying the user details on the screen
 		txtName.setText(name);
 		txtEmail.setText(email);
-
+		txtId.setText(id);
 
 
 		//Get the GPS Info and return to the user
@@ -113,9 +159,22 @@ public class MainActivity extends AppCompatActivity {
 
 			@Override
 			public void onClick(View v) {
+				if(check_attendance(location_current)){
+					Log.e(TAG,"before_logout");
+					String temp = txtId.getText().toString();
+
+					register_attendance(temp);
+				}
 				logoutUser();
 			}
 		});
+
+
+
+
+		// Progress dialog
+		pDialog = new ProgressDialog(this);
+		pDialog.setCancelable(false);
 	}
 
 	@Override
@@ -125,11 +184,32 @@ public class MainActivity extends AppCompatActivity {
 
 		if(!checkPermissions()){
 			requestPermissions();
-		} else{
-			String[] location = getLastLocation();
-			sendLocation(location);
 		}
+		else{
+			location_current = getLastLocation();
+			//location_current[0] = txtLatitude.getText().toString();
+			//location_current[1] = txtLongitude.getText().toString();
+
+			//if(location_current[0] != null && !location_current[0].isEmpty()) {
+			//	if (check_attendance(location_current)) {
+			//		register_attendance();
+			//	}
+			//	Log.e(TAG,"route1");
+			//}
+			//else{
+			//	Log.e(TAG,"root1");
+			//}
+			//if(check_attendance(test1)){
+			//	Log.e(TAG,"register_attendance");
+			//	String temp = txtId.getText().toString();
+
+			//	register_attendance(temp);
+			//}
+
+		}
+		Log.e(TAG,"check2");
 	}
+
 
 
 
@@ -139,10 +219,97 @@ public class MainActivity extends AppCompatActivity {
 	 *
 	 */
 
-	private void sendLocation(String[] loc){
+	private void register_attendance(final String user_id){
 
 
+		////// Code from Register Activity.java ////
+		String tag_string_req = "req_register";
+
+		pDialog.setMessage("Attending ...");
+		showDialog();
+
+		StringRequest strReq = new StringRequest(Method.POST,
+				AppConfig.URL_ATTENDANCE, new Response.Listener<String>() {
+
+			@Override
+			public void onResponse(String response) {
+
+
+				Log.d(TAG, "Register Response: " + response.toString());
+				hideDialog();
+
+				try {
+					JSONObject jObj = new JSONObject(response);
+					boolean error = jObj.getBoolean("error");
+
+					if (!error) {
+						// User successfully stored in MySQL
+						// Now store the user in sqlite
+						JSONObject user = jObj.getJSONObject("user");
+						String created_at = user.getString("created_at");
+
+
+						// Inserting row in users table
+
+						Log.e(TAG,"Checkpoint1");
+						db.addAttendance(user_id, created_at);
+						Log.e(TAG,"checkpoint2");
+
+						//Toast.makeText(getApplicationContext(), "User successfully registered. Try login now!", Toast.LENGTH_LONG).show();
+
+						// Launch login activity
+						finish();
+					} else {
+
+						// Error occurred in registration. Get the error
+						// message
+						String errorMsg = jObj.getString("error_msg");
+						//Toast.makeText(getApplicationContext(),
+						//		errorMsg, Toast.LENGTH_LONG).show();
+					}
+				} catch (JSONException e) {
+					e.printStackTrace();
+				}
+
+			}
+		}, new Response.ErrorListener() {
+
+			@Override
+			public void onErrorResponse(VolleyError error) {
+				Log.e(TAG, "Registration Error: " + error.getMessage());
+				//Toast.makeText(getApplicationContext(),
+				//		error.getMessage(), Toast.LENGTH_LONG).show();
+				hideDialog();
+			}
+		})
+
+		{
+			@Override
+			protected Map<String, String> getParams() {
+				// Posting params to register url
+				Map<String, String> params = new HashMap<String, String>();
+				params.put("user_id", user_id);
+
+				return params;
+			}
+
+
+		};
+		AppController.getInstance().addToRequestQueue(strReq, tag_string_req);
 	}
+
+	private void showDialog() {
+		if (!pDialog.isShowing())
+			pDialog.show();
+	}
+
+	private void hideDialog() {
+		if (pDialog.isShowing())
+			pDialog.dismiss();
+	}
+
+
+
 
 
 
@@ -167,11 +334,12 @@ public class MainActivity extends AppCompatActivity {
 							mLastLocation = task.getResult();
 
 							position[0] = String.valueOf(mLastLocation.getLatitude());
-							position[1] = String.valueOf(mLastLocation.getAltitude());
+							position[1] = String.valueOf(mLastLocation.getLongitude());
 							txtLatitude.setText(position[0]);
 							txtLongitude.setText(position[1]);
 
-
+							lat_save = position[0];
+							long_save = position[1];
 						} else {
 							Log.w(TAG, "getLastLocation:exception", task.getException());
 						}

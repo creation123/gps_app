@@ -6,4 +6,8 @@ public class AppConfig {
 
 	// Server user register url
 	public static String URL_REGISTER = "http://192.168.1.204:8888/android_login_api/register.php";
+
+	//Server attendance register url
+	public static String URL_ATTENDANCE = "http://192.168.1.204:8888/android_login_api/attendance.php";
+
 }
