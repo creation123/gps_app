@@ -22,6 +22,36 @@ class DB_Functions {
         
     }
 
+
+   /**
+     * Storing Attendance profile
+     * returns user details
+     */
+    public function storeAttendance($user_id) {
+        
+        $stmt = $this->conn->prepare("INSERT INTO attendance(user_id, attended_at) VALUES(?, NOW())");
+        $stmt->bind_param("s", $user_id);
+        $result = $stmt->execute();
+        $stmt->close();
+
+        // check for successful store
+        if ($result) {
+
+            $stmt = $this->conn->prepare("SELECT * FROM attendance WHERE user_id = ?");
+            $stmt->bind_param("s", $user_id);
+            $stmt->execute();
+            $user = $stmt->get_result()->fetch_assoc();
+            $stmt->close();
+        
+            return $user;
+        } else {
+            return false;
+        }
+    }
+
+
+
+
     /**
      * Storing new user
      * returns user details

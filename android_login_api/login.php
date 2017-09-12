@@ -23,6 +23,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
     if ($user != false) {
         // use is found
         $response["error"] = FALSE;
+        $response["id"] = $user["id"];
         $response["uid"] = $user["unique_id"];
         $response["user"]["name"] = $user["name"];
         $response["user"]["email"] = $user["email"];
