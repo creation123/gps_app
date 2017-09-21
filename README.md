@@ -30,6 +30,7 @@ database records the following
 
 ID / User_Id / DATE / time1(출근) / time2(퇴근)
 
+edge cases -> allow multiple 출퇴근 in a day
 
 
 
