@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/Users/Hyunho/.android/build-cache/aa2473ffff43f2d49cb96e0af6a569b0f59866ea/output/res/color-v23/abc_tint_switch_thumb.xml"
-    },
-    {
         "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/res/color-v23/abc_tint_btn_checkable.xml"
     },

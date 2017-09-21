@@ -17,6 +17,7 @@ ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAn
 		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/Hyunho/.android/build-cache/3e843cfdc923e9a2d18ce7d4310e9f8ec135c2a7/output/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:design:26.0.1] /Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/Hyunho/.android/build-cache/e0a124138f1e295c3bce1c11660415c00f2a427e/output/AndroidManifest.xml:20:5-44

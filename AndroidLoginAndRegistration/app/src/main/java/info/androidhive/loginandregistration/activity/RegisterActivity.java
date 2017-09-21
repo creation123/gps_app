@@ -130,13 +130,12 @@ public class RegisterActivity extends Activity {
                         // User successfully stored in MySQL
                         // Now store the user in sqlite
                         String uid = jObj.getString("uid");
-                        String user_id = jObj.getString("id");
+                        //String user_id = jObj.getString("id");
                         JSONObject user = jObj.getJSONObject("user");
                         String name = user.getString("name");
                         String email = user.getString("email");
-                        String created_at = user
-                                .getString("created_at");
-
+                        String created_at = user.getString("created_at");
+                        String user_id = jObj.getString("id");
 
                         // Inserting row in users table
 

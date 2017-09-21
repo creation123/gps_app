@@ -8,10 +8,6 @@
         "source": "/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
-        "source": "/Users/Hyunho/.android/build-cache/10934e33702ad9af4b4c2e93166f8cd45255d4b9/output/res/anim/design_fab_in.xml"
-    },
-    {
         "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
         "source": "/Users/Hyunho/.android/build-cache/63574a1ea405d8431fa074291d74e0ba34e5bc10/output/res/anim/abc_fade_out.xml"
     },
@@ -66,9 +62,5 @@
     {
         "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
         "source": "/Users/Hyunho/.android/build-cache/84db3101ed9151a8c182da1839acff54fe8c991d/output/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
-        "source": "/Users/Hyunho/.android/build-cache/10934e33702ad9af4b4c2e93166f8cd45255d4b9/output/res/anim/design_fab_out.xml"
     }
 ]

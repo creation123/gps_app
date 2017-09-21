@@ -9,6 +9,9 @@ import android.support.v4.app.ActivityCompat;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
+
+
 
 import java.util.HashMap;
 
@@ -16,6 +19,7 @@ import info.androidhive.loginandregistration.BuildConfig;
 import info.androidhive.loginandregistration.R;
 import info.androidhive.loginandregistration.app.AppController;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
+
 import info.androidhive.loginandregistration.helper.SessionManager;
 
 import android.Manifest;
@@ -47,7 +51,6 @@ import org.json.JSONException;
 
 
 
-
 public class MainActivity extends AppCompatActivity {
 
 	private TextView txtName;
@@ -57,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 	private TextView txtLongitude;
 
 	private Button btnLogout;
+	private Button btnCheck;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -89,6 +93,17 @@ public class MainActivity extends AppCompatActivity {
 	private String[] location_current;
 
 	public boolean check_attendance(String[] input_location){
+		if(input_location[0]==null || input_location[0].isEmpty()){
+			Toast.makeText(getApplicationContext(),
+					"Location is not detected", Toast.LENGTH_LONG).show();
+			return false;
+		}
+
+		if(input_location[1]==null || input_location[1].isEmpty()){
+			Toast.makeText(getApplicationContext(),
+					"Location is not detected", Toast.LENGTH_LONG).show();
+			return false;
+		}
 
 		Double current_lat = Double.parseDouble(input_location[0]);
 		Double current_long = Double.parseDouble(input_location[1]);
@@ -99,6 +114,8 @@ public class MainActivity extends AppCompatActivity {
 			Log.e(TAG,"attended");
 			return true;
 		}
+		Toast.makeText(getApplicationContext(),
+				"You are in a wrong location", Toast.LENGTH_LONG).show();
 		return false;
 	}
 
@@ -126,8 +143,10 @@ public class MainActivity extends AppCompatActivity {
 		txtId = (TextView) findViewById(R.id.user_id);
 
 		btnLogout = (Button) findViewById(R.id.btnLogout);
+		btnCheck = (Button) findViewById(R.id.btnCheck);
 
 		// SqLite database handler
+		Log.e(TAG,"DB CREATE PROCESS");
 		db = new SQLiteHandler(getApplicationContext());
 
 		// session manager
@@ -155,27 +174,44 @@ public class MainActivity extends AppCompatActivity {
 		txtLatitude.setText("not_detected");
 		txtLongitude.setText("not_detected");
 
+
+		// Progress dialog
+		pDialog = new ProgressDialog(this);
+		pDialog.setCancelable(false);
+
+
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
 
 			@Override
 			public void onClick(View v) {
-				if(check_attendance(location_current)){
-					Log.e(TAG,"before_logout");
-					String temp = txtId.getText().toString();
 
-					register_attendance(temp);
-				}
 				logoutUser();
+
+			}
+		});
+
+		btnCheck.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				if(check_attendance(location_current)){
+					Log.e(TAG,"registering user name");
+					String temp = txtId.getText().toString();
+					Log.e(TAG,temp);
+					register_attendance(temp);
+					Toast.makeText(getApplicationContext(),
+							"Successfully registered", Toast.LENGTH_LONG).show();
+				}
+				else{
+					Log.e(TAG,"you are not near the place");
+				}
+				//logoutUser();
 			}
 		});
 
 
 
-
-		// Progress dialog
-		pDialog = new ProgressDialog(this);
-		pDialog.setCancelable(false);
 	}
 
 	@Override
@@ -227,7 +263,7 @@ public class MainActivity extends AppCompatActivity {
 		String tag_string_req = "req_register";
 
 		pDialog.setMessage("Attending ...");
-		showDialog();
+		//showDialog();
 
 		StringRequest strReq = new StringRequest(Method.POST,
 				AppConfig.URL_ATTENDANCE, new Response.Listener<String>() {
@@ -247,19 +283,27 @@ public class MainActivity extends AppCompatActivity {
 						// User successfully stored in MySQL
 						// Now store the user in sqlite
 						JSONObject user = jObj.getJSONObject("user");
-						String created_at = user.getString("created_at");
+						String attended_at = user.getString("attended_at");
+						//String user_id_real = jObj.getString("user_id");
 
 
 						// Inserting row in users table
 
 						Log.e(TAG,"Checkpoint1");
-						db.addAttendance(user_id, created_at);
+						db.addAttendance(user_id, attended_at);
 						Log.e(TAG,"checkpoint2");
 
-						//Toast.makeText(getApplicationContext(), "User successfully registered. Try login now!", Toast.LENGTH_LONG).show();
+
+						//session.setLogin(false);
+
+						//db.deleteUsers();
+
+						//Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+						//startActivity(intent);
+						//finish();
 
 						// Launch login activity
-						finish();
+						//finish();
 					} else {
 
 						// Error occurred in registration. Get the error

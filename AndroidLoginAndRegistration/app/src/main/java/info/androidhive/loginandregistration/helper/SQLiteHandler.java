@@ -1,7 +1,7 @@
 /**
- * Author: Ravi Tamada
- * URL: www.androidhive.info
- * twitter: http://twitter.com/ravitamada
+ *
+ *
+ *
  * */
 package info.androidhive.loginandregistration.helper;
 
@@ -23,10 +23,12 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	private static final int DATABASE_VERSION = 1;
 
 	// Database Name
+	//private static final String DATABASE_NAME = "bell";
 	private static final String DATABASE_NAME = "android_api";
 
 	// Login table name
 	private static final String TABLE_USER = "user";
+	private static final String TABLE_ATTENDANCE = "attendance";
 
 	// Login Table Columns names
 	private static final String KEY_ID = "id";
@@ -34,6 +36,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	private static final String KEY_EMAIL = "email";
 	private static final String KEY_UID = "uid";
 	private static final String KEY_CREATED_AT = "created_at";
+	private static final String KEY_ATTENDED_AT= "attended_at";
 	private static final String KEY_USER_ID = "user_id";
 
 	public SQLiteHandler(Context context) {
@@ -45,9 +48,15 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	public void onCreate(SQLiteDatabase db) {
 		String CREATE_LOGIN_TABLE = "CREATE TABLE " + TABLE_USER + "("
 				+ KEY_ID + " INTEGER PRIMARY KEY," + KEY_NAME + " TEXT,"
-				+ KEY_EMAIL + " TEXT UNIQUE," + KEY_UID + " TEXT,"
-				+ KEY_CREATED_AT + " TEXT" + ")";
+				+ KEY_EMAIL + " TEXT," + KEY_UID + " TEXT,"
+				+ KEY_CREATED_AT + " TEXT," + KEY_USER_ID + " TEXT"+ ")";
 		db.execSQL(CREATE_LOGIN_TABLE);
+
+
+		String CREATE_ATTEND_TABLE = "CREATE TABLE " + TABLE_ATTENDANCE + "("
+				+ KEY_ID + " INTEGER PRIMARY KEY," + KEY_USER_ID + " TEXT,"
+				+ KEY_ATTENDED_AT + " TEXT"+ ")";
+		db.execSQL(CREATE_ATTEND_TABLE);
 
 		Log.d(TAG, "Database tables created");
 	}
@@ -57,6 +66,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 		// Drop older table if existed
 		db.execSQL("DROP TABLE IF EXISTS " + TABLE_USER);
+		db.execSQL("DROP TABLE IF EXISTS " + TABLE_ATTENDANCE);
 
 		// Create tables again
 		onCreate(db);
@@ -65,7 +75,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	/**
 	 * Storing user details in database
 	 * */
-	public void addUser(String name, String email, String uid, String created_at,String user_id) {
+	public void addUser(String name, String email, String uid, String created_at, String user_id) {
 		SQLiteDatabase db = this.getWritableDatabase();
 
 		ContentValues values = new ContentValues();
@@ -73,7 +83,9 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		values.put(KEY_EMAIL, email); // Email
 		values.put(KEY_UID, uid); // Email
 		values.put(KEY_CREATED_AT, created_at); // Created At
-		values.put(KEY_ID,user_id); // User_id
+		values.put(KEY_USER_ID,user_id); // user id (key value in original table)
+
+
 
 		// Inserting Row
 		long id = db.insert(TABLE_USER, null, values);
@@ -91,10 +103,10 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 
 		ContentValues values = new ContentValues();
 		values.put(KEY_USER_ID, user_id); // userid (1,2,3...)
-		values.put(KEY_CREATED_AT, created_at); // Created At
+		values.put(KEY_ATTENDED_AT, created_at); // Created At
 
 		// Inserting Row
-		long id = db.insert(TABLE_USER, null, values);
+		long id = db.insert(TABLE_ATTENDANCE, null, values);
 		db.close(); // Closing database connection
 
 		Log.d(TAG, "New user inserted into sqlite_attendance: " + id);
@@ -114,11 +126,12 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		// Move to first row
 		cursor.moveToFirst();
 		if (cursor.getCount() > 0) {
+
 			user.put("name", cursor.getString(1));
 			user.put("email", cursor.getString(2));
 			user.put("uid", cursor.getString(3));
 			user.put("created_at", cursor.getString(4));
-			user.put("user_id",cursor.getString(0));
+			user.put("user_id",cursor.getString(5));
 		}
 		cursor.close();
 		db.close();
@@ -135,6 +148,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 		SQLiteDatabase db = this.getWritableDatabase();
 		// Delete All Rows
 		db.delete(TABLE_USER, null, null);
+		db.delete(TABLE_ATTENDANCE,null,null);
 		db.close();
 
 		Log.d(TAG, "Deleted all user info from sqlite");
