@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

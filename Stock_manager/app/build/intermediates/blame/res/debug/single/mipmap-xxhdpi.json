@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

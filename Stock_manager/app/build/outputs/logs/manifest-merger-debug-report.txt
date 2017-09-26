@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/5758e5827d35f0cd690e584cc5613e6b9b2ff210/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/ae2aec4cc76bed8e570eb37b79fc11e085cbc50b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b6f29d97c95b0a97965080d6c3f87f4364cd4e2f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/c7db1f40189428183fb46fa47a53d869b1af2951/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/e95c4802b1d2525c9a8132a3cb8d9831a27f3dcd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/3a407740b462c7af8101ffe1d5b067bb3dda95e3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/7a4807b559e883dd8ad2b8381ace1223aca08955/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b63e0ee185450d6f3546a05edf5bb26854c1d5e8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Hyunho/.android/build-cache/f9f9604c7f5adc13112044118f7adf295c39ff66/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.hyunho.stock_manager.MainActivity
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/5758e5827d35f0cd690e584cc5613e6b9b2ff210/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/ae2aec4cc76bed8e570eb37b79fc11e085cbc50b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b6f29d97c95b0a97965080d6c3f87f4364cd4e2f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/c7db1f40189428183fb46fa47a53d869b1af2951/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/e95c4802b1d2525c9a8132a3cb8d9831a27f3dcd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/3a407740b462c7af8101ffe1d5b067bb3dda95e3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/7a4807b559e883dd8ad2b8381ace1223aca08955/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b63e0ee185450d6f3546a05edf5bb26854c1d5e8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Hyunho/.android/build-cache/f9f9604c7f5adc13112044118f7adf295c39ff66/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hyunho/Downloads/AndroidLoginAndRegistration_v2/Stock_manager/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/5758e5827d35f0cd690e584cc5613e6b9b2ff210/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/ae2aec4cc76bed8e570eb37b79fc11e085cbc50b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b6f29d97c95b0a97965080d6c3f87f4364cd4e2f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/c7db1f40189428183fb46fa47a53d869b1af2951/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/e95c4802b1d2525c9a8132a3cb8d9831a27f3dcd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/3a407740b462c7af8101ffe1d5b067bb3dda95e3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/7a4807b559e883dd8ad2b8381ace1223aca08955/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/b63e0ee185450d6f3546a05edf5bb26854c1d5e8/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Hyunho/.android/build-cache/9886db62b4da5477ecfed3b9776d5a4d13339171/output/AndroidManifest.xml:26:9-47
