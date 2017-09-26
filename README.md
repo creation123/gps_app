@@ -7,7 +7,7 @@ Features : User can register his ID onto the server, User can log in / log out, 
 
 
 
-version 0.0.1 (plan)
+version 0.0.1 
 modify the datatable -> contain arrive time (datetime) and leave time (datetime) -> 
 Show user the following information in the MainActivity
 
@@ -21,6 +21,7 @@ edge cases -> allow multiple 출퇴근 in a day
 
 Procedure
 
+(출퇴근 만가능함 이거는 아직 안됨)
 출근을 누름
 1: 해당유저에게 해당되는 row 모두확인 혹시나 출근만 기록되있고 퇴근이 기록 안되있는 row 있으면 애러처리
 2: 해당유저에게 해당되는 row 모두 괜찮을시
@@ -35,7 +36,7 @@ Procedure
 
 
 
-
-
+version 0.0.2 
+기록 (History)확인 가능
 
 
